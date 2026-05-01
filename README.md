@@ -6,7 +6,7 @@ actually disclose about their practices — and whether that disclosure translat
 sustainability performance.
 
 **Course:** COMP 4433 — Data Visualization  
-**Author:** Namoos Haider              
+**Author:** Namoos Haider (Moose)  
 **Data sources:** Fashion Transparency Index 2023 (Fashion Revolution) · Good On You Brand Ratings (2024/25)
 
 ---
@@ -18,6 +18,22 @@ Good On You independently rates what brands *do* across people, planet, and anim
 Merging both datasets for 49 overlapping brands reveals a weak but real correlation of **r = 0.37** —
 meaning transparency and actual sustainability are related, but a brand can score 80% on disclosure
 while still being rated "Not Good Enough" on independent assessment.
+
+---
+
+## Preview
+
+![Cross-Index Scatter](figures/fig_cross1_scatter.png)
+*The central finding: FTI transparency vs. Good On You sustainability (r = 0.37, n = 49 brands)*
+
+![Sub-Category Heatmap](figures/fig6_heatmap.png)
+*S1–S5 sub-category scores for the top 30 brands — S3 and S5 are where everyone falls short*
+
+![Quadrant Analysis](figures/fig_cross4_quadrant.png)
+*High transparency + low sustainability is the most populated quadrant*
+
+![Dashboard](figures/fig8_composite_v2.png)
+*Full project overview — distribution, year-over-year change, top brands, segment comparison, 2018–2023 trend*
 
 ---
 
