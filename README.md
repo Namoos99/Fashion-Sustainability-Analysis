@@ -23,16 +23,16 @@ while still being rated "Not Good Enough" on independent assessment.
 
 ## Preview
 
-![Cross-Index Scatter](figures/fig_cross1_scatter.png)
+![Cross-Index Scatter](figures/fig_cross_scatter.png)
 *The central finding: FTI transparency vs. Good On You sustainability (r = 0.37, n = 49 brands)*
 
-![Sub-Category Heatmap](figures/fig6_heatmap.png)
+![Sub-Category Heatmap](figures/fig_heatmap.png)
 *S1–S5 sub-category scores for the top 30 brands — S3 and S5 are where everyone falls short*
 
-![Quadrant Analysis](figures/fig_cross4_quadrant.png)
+![Quadrant Analysis](figures/fig_cross_quadrant.png)
 *High transparency + low sustainability is the most populated quadrant*
 
-![Dashboard](figures/fig8_composite_v2.png)
+![Dashboard](figures/fig_composite.png)
 *Full project overview — distribution, year-over-year change, top brands, segment comparison, 2018–2023 trend*
 
 ---
