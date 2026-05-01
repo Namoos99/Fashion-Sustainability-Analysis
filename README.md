@@ -6,7 +6,7 @@ actually disclose about their practices — and whether that disclosure translat
 sustainability performance.
 
 **Course:** COMP 4433 — Data Visualization  
-**Author:** Namoos Haider (Moose)  
+**Author:** Namoos Haider 
 **Data sources:** Fashion Transparency Index 2023 (Fashion Revolution) · Good On You Brand Ratings (2024/25)
 
 ---
